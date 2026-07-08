@@ -17,5 +17,5 @@ paper-research-assistant/
 └─ library.sqlite3    
 需运行
 python scripts/build_index.py \
-  --library "对方自己的论文库路径" \
+  --library "自己的论文库路径" \
   --index data/library.sqlite3
