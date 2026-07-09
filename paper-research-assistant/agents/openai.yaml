@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文研究助手"
+  short_description: "检索本地论文库，支持论文精读、证据核查和中英文学术润色"
+  default_prompt: "使用 $paper-research-assistant 检索我的本地论文库并给出带页码的可靠回答。"
